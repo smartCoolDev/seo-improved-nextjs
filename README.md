@@ -1,4 +1,4 @@
-# Next.js Countries App
+# SEO Improved Next.js Countries App
 
 Web application for finding more information about countries. Made with Next.js ❤️ (React framework) and REST countries API. All pages are static generated at build time, images optimized, pages loaded with dynamic routes and great SEO.
 
